@@ -21,7 +21,7 @@ body{
 .box{
      min-height: 500px;
      border-radius: 10px;
-     width: 400px;
+     width: 350px;
      background-color: aliceblue;
      box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2),
      -6px 2px 15px rgba(0, 0, 0, 0.2);
@@ -177,4 +177,10 @@ h6{
   justify-content: flex-start;
  margin-bottom: 5px;
  
+}
+.todotime{
+  font-size: 10px;
+  margin: 6px 10px;
+  font-weight: bold;
+  color: #6c6868;
 }

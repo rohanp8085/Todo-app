@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import GlobalContext from '../Context/GlobalContext'
-import { BsFillRecordFill } from "react-icons/bs";
+import { BsFillRecordFill} from "react-icons/bs";
 
 const ListItem = ({todo }) => {
 

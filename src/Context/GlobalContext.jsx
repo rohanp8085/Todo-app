@@ -51,13 +51,8 @@ const deleteTodo = (id) => {
        dispatch({
         type : "UPDATE_TODO",
         payload : updatedTodo
-       })
-
-       }
-
-   
-
-    return(
+       }) }
+       return(
         <GlobalContext.Provider value={{
         todos:state.todos,
         edit : state.edit,
