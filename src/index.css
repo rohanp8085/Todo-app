@@ -82,6 +82,7 @@ input{
   padding: 8px 15px;
   width: 280px;
   border-radius: 20px;
+  /* font-size: 17px; */
   outline: none;
  
 }
@@ -97,7 +98,7 @@ input{
   border: none;
   background: transparent;
   position: absolute;
-  right: 80px;
+  right: 50px;
   
 }
 ul{
